@@ -7,3 +7,7 @@ You control him with the directional arrows and the space bars.
 ![](Docs/Screenshot1.png)
 ![](Docs/Screenshot2.png)
 ![](Docs/Screenshot3.png)
+
+## Credits:
+César Lorenzon - Programming<br>
+Osvaldo Bizzotto - Graphic Design
